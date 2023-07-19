@@ -1,2 +1,3 @@
 # data-science-studies-analise-exploratoria-titanic
- Atividade de análise exploratória e tratamento de dados da tradicional base Titanic realizada em uma disciplina da especialização em Ciência de Dados no Centro de Informática da UFPE.
+ Atividade de análise exploratória e tratamento de dados da tradicional base Titanic realizada em uma disciplina da especialização em Ciência de Dados no Centro de Informática da UFPE.  
+ Desejava-se tentar tratar a maior quantidade de dados possível, bem como padronizá-los a fim de encontrar padrões e relações entre as features e a sobrevivência.
